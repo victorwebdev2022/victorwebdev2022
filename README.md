@@ -8,7 +8,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development :computer: 
+-  **Working :**  Web Development :computer:
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Movies :clapper: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
