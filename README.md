@@ -10,7 +10,7 @@
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Hobbies :** Movies :clapper: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
